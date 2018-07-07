@@ -1,2 +1,2 @@
 # ML-Template
-Machine Learning basic preprocessing template in Python
+Machine Learning basic templates in Python
