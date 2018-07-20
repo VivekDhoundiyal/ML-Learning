@@ -2,8 +2,14 @@
 # Learning Folder
 In this folder I will add all learnings in python step by step
 
-#1: Template
-In this folder I will add all the templates which can be used for starting project
+# Templates
+In this folder I will add all the templates which can be used for starting project as per type of machine learning
 
-#2: Regression
+#Step 1: Data Preprocessing
 
+# Supervised Learning
+#Step 2: Regression
+#Step 3: Classification
+
+# Unsupervised Learning
+#Step 4: Clustering
