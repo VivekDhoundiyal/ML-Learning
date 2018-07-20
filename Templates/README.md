@@ -1,2 +1,2 @@
-# ML-Template
-Machine Learning basic templates in Python
+# Template
+In this folder I will add all the templates which can be used for starting project
