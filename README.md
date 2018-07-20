@@ -7,9 +7,16 @@ In this folder I will add all the templates which can be used for starting proje
 
 #Step 1: Data Preprocessing
 
+# ****************************************************************************************************************************************
 # Supervised Learning
-#Step 2: Regression
-#Step 3: Classification
+
+# Step 2: Regression
+
+# Step 3: Classification
+
+# ****************************************************************************************************************************************
 
 # Unsupervised Learning
-#Step 4: Clustering
+
+# Step 4: Clustering
+# ****************************************************************************************************************************************
